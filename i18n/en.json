@@ -1,10 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"..."
+			"Simon Kingaby"
 		]
 	},
-	"skinname-example": "Example",
-	"example-skin-desc": "An example skin showcasing the best practices",
+	"skinname-example": "My DnD 5e MediaWiki Skin",
+	"example-skin-desc": "A skin for MediaWikie that uses the standard DnD 5e style guide.",
 	"example-no-categories": "No categories"
 }

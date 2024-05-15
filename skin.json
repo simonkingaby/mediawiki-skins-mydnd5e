@@ -1,12 +1,12 @@
 {
-	"name": "Example",
+	"name": "My DnD 5e MediaWiki Skin",
 	"version": "1.0.0",
 	"author": [
-		"..."
+		"Simon Kingaby"
 	],
 	"url": "https://www.mediawiki.org/wiki/Skin:Example",
-	"descriptionmsg": "example-skin-desc",
-	"namemsg": "skinname-example",
+	"descriptionmsg": "A skin for MediaWikie that uses the standard DnD 5e style guide.",
+	"namemsg": "my-dnd-5e-mediawiki-skin",
 	"license-name": "CC0-1.0",
 	"type": "skin",
 	"requires": {
